@@ -28,5 +28,9 @@ rsync://rsync.macports.org/macports/release/tarballs/ports.tar.gz [default]
 sudo port sync
 ```
 
+## Packages
+* wine-stable `11.0`
+* winetricks
+
 ## Credit
 * Original repository: [Gcenx/macports-wine](https://github.com/Gcenx/macports-wine)
