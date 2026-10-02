@@ -1,0 +1,3 @@
+[submodule "emulators/wine-stable/files/wine-patches"]
+	path = emulators/wine-stable/files/wine-patches
+	url = https://github.com/fitudao3788/wine-patches.git
